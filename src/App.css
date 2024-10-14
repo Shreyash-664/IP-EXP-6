@@ -1,0 +1,82 @@
+.hero {
+  background: url('https://images.collegedunia.com/public/college_data/images/appImage/15528_VESIT.jpg?h=260&w=360&mode=crop/1500x500') no-repeat center center/cover;
+  color: #fff;
+  padding: 60px 0;
+  text-align: center;
+}
+.hero h1 {
+  font-size: 3rem;
+}
+.hero p {
+  font-size: 1.25rem;
+}
+.feature-box {
+  background: #f8f9fa;
+  padding: 20px;
+  border-radius: 5px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.feature-box h3 {
+  margin-bottom: 10px;
+}
+.footer {
+  background: #333;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+}
+.footer a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 10px;
+}
+.footer a:hover {
+  text-decoration: underline;
+}
+.navbar-brand img {
+  max-height: 40px; /* Adjust the logo height */
+  margin-right: 10px; /* Space between the logo and text */
+}
+.hero {
+  background: url('https://images.collegedunia.com/public/college_data/images/appImage/15528_VESIT.jpg?h=260&w=360&mode=crop/1500x500') no-repeat center center/cover;
+  color: #fff;
+  padding: 60px 0;
+  text-align: center;
+}
+
+.feature-box {
+  background: #f8f9fa;
+  padding: 20px;
+  border-radius: 5px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.footer a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}
+
+.custom-navbar {
+  padding: 15px 30px; /* Increases top/bottom and left/right padding */
+  height: 80px; /* Adjusts the overall height of the navbar */
+}
+
+.custom-navbar .navbar-brand {
+  font-size: 1.5rem; /* Increases the font size of the brand */
+}
+
+.custom-navbar .nav-link {
+  font-size: 1.2rem; /* Increases the font size of the nav links */
+  padding: 10px 15px; /* Increases padding around each link */
+}
+
+.custom-navbar .navbar-toggler {
+  padding: 10px; /* Increases the size of the toggler button */
+}
